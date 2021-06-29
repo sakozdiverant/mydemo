@@ -1,0 +1,1 @@
+TOKEN = 'mytoken' # bot token from @BotFather
